@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 
 # Foodie Website 🍔🍕  
 
 ![Foodie Website Screenshot](images/Output1.png)
 ![Foodie Website Screenshot](images/Output2.png)
+=======
+# Foodie Website 🍔🍕  
+
+![Foodie Website Screenshot](images/burger.png)
+
+>>>>>>> 29f2fa8ae3ca124a8f2279373e14d5558cdd140d
 ## Overview
 Foodie is a fully responsive, interactive website built with **HTML, CSS, and JavaScript**.  
 It allows users to browse delicious food items, add them to the cart, remove items, and see the total price in real-time.  
@@ -32,5 +39,10 @@ This project is ideal for anyone looking to create a **modern, user-friendly, an
 - **Swiper.js** – Review carousel functionality.  
 - **Font Awesome** – Icons for social links, cart, and UI enhancements.  
 
+<<<<<<< HEAD
 ---
 
+=======
+
+## Project Structure
+>>>>>>> 29f2fa8ae3ca124a8f2279373e14d5558cdd140d
