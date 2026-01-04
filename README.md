@@ -1,23 +1,13 @@
-<<<<<<< HEAD
-
 # Foodie Website 🍔🍕  
 
 ![Foodie Website Screenshot](images/Output1.png)
 ![Foodie Website Screenshot](images/Output2.png)
-=======
-# Foodie Website 🍔🍕  
-
-![Foodie Website Screenshot](images/burger.png)
-
->>>>>>> 29f2fa8ae3ca124a8f2279373e14d5558cdd140d
 ## Overview
 Foodie is a fully responsive, interactive website built with **HTML, CSS, and JavaScript**.  
 It allows users to browse delicious food items, add them to the cart, remove items, and see the total price in real-time.  
 The website simulates a complete food ordering experience, including menus, services, reviews, and even a subscription feature.  
 
 This project is ideal for anyone looking to create a **modern, user-friendly, and responsive food delivery web application**.
-
----
 
 ## Features
 - **Fully Responsive Design** – Works seamlessly on desktops, tablets, and mobile devices.  
@@ -37,12 +27,13 @@ This project is ideal for anyone looking to create a **modern, user-friendly, an
 - **CSS3** – Modern responsive design, flexbox, and media queries.  
 - **JavaScript (Vanilla)** – Dynamic DOM manipulation for cart, menu, and interactions.  
 - **Swiper.js** – Review carousel functionality.  
-- **Font Awesome** – Icons for social links, cart, and UI enhancements.  
+- **Font Awesome** – Icons for social links, cart, and UI enhancements.
 
-<<<<<<< HEAD
----
 
-=======
+##Future Enhancements
+--Backend integration for live orders and payment processing
+--User authentication for personalized experiences
+--Search and filter functionality for menu items
+--Real-time notifications for order status updates
+--AI-based recommendations for personalized dish suggestions
 
-## Project Structure
->>>>>>> 29f2fa8ae3ca124a8f2279373e14d5558cdd140d
