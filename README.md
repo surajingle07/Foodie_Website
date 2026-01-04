@@ -31,9 +31,5 @@ This project is ideal for anyone looking to create a **modern, user-friendly, an
 
 
 ##Future Enhancements
---Backend integration for live orders and payment processing
---User authentication for personalized experiences
---Search and filter functionality for menu items
---Real-time notifications for order status updates
---AI-based recommendations for personalized dish suggestions
+In the future, the Foodie website can be improved by integrating a backend system to handle live orders and secure payment processing. Adding user authentication will allow for a personalized experience, including order history and preferences. Implementing search and filter functionality will help users quickly find their favorite dishes, while real-time notifications can keep them updated on their order status. Additionally, AI-based recommendations could suggest dishes based on user preferences, making the overall experience smarter and more engaging.
 
